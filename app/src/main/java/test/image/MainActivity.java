@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
     ImageView imageView6;
     @BindView(R.id.imageView7)
     ImageView imageView7;
-    private final String url = "http://res.cloudinary.com/clickapp/image/upload/h_1440,w_2960/v1503404664/monh/staging/categories/Protein_Arabic.jpg";
+    private final String url = "http://res.cloudinary.com/clickapps/image/upload/v1504245457/test/1024x1024-Wallpapers-010.jpg";
 
 
     @Override
